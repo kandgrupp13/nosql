@@ -1,0 +1,13 @@
+# Compiled Source #
+###################
+*.beam
+
+# OSX Specific #
+################
+.DS_Store
+
+# VIM Specific #
+################
+*.swp
+
+# Add more!
